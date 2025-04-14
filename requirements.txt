@@ -1,4 +1,4 @@
-﻿absl-py==2.2.2
+ ﻿absl-py==2.2.2
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.4.0
@@ -127,7 +127,6 @@ Pygments==2.18.0
 pyngrok==7.2.3
 pyodide-http==0.2.1
 pyparsing==3.1.2
-pypiwin32==223
 PySocks==1.7.1
 python-crfsuite==0.9.11
 python-dateutil==2.9.0.post0
@@ -135,7 +134,6 @@ python-json-logger==2.0.7
 pyttsx3==2.98
 pytz==2024.1
 PyWavelets==1.8.0
-pywin32==306
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==26.0.3
